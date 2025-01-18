@@ -1,5 +1,5 @@
 ## Hi there 👋
-I mainly use GitLab https://gitlab.com/niclasheinz
+<!-- I mainly use GitLab https://gitlab.com/niclasheinz
 <!--
 **niclasheinz/niclasheinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
